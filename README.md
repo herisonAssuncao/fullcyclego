@@ -4,4 +4,4 @@ Link da imagem no docker hub: [herison20/fullcyclego][def]
 
 Comando: ```docker run --rm herison20/fullcyclego```
 
-[def]: http://example.com
+[def]: https://hub.docker.com/repository/docker/herison20/fullcyclego/general
